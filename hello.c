@@ -1,1 +1,5 @@
-helloworkd
+
+int main(){
+
+return 0;
+}
